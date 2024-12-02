@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobinSuthar
 - 👀 I’m interested in Web Development  
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on Java Script
+- 💞️ I’m looking to collaborate on Next.JS
 - 📫 How to reach me robinsuthar.sd@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm a huge fan of Cristiano Ronaldo
